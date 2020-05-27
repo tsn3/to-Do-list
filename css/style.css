@@ -1,0 +1,39 @@
+body {
+  background-color: #232324;
+}
+
+.container {
+  margin-top: 50px;
+  width: 50% !important;
+  background-color: #e97c9d;
+}
+form {
+  background: #232324;
+  border: 3px solid #363636;
+  border-radius: 10px 10px 0 0;
+  padding: 20px 10px;
+}
+
+#list {
+  width: 80%;
+  float: left;
+  margin-right: 2%;
+}
+
+h1 {
+  color: #232324;
+  text-align: center;
+}
+
+ul {
+  padding: 0 10px;
+  background: #232324;
+}
+ul li {
+  padding: 10px 10px;
+  list-style: none;
+  margin-bottom: 10px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  color: #d9d9d9;
+}
